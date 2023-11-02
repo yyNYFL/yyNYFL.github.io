@@ -20,18 +20,18 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <img src="./images/prof_pic.jpg" style="width:75%">
 
-## Education 
+## **Education** 
 
 * MPH Candidate in Sociomedical Science with a Certificate in Applied Biostatistics and Public Health Data Science, Columbia University, Mailman School of Public Health
 
 * Bachelor of Arts in Medicine, Health and Society and Environmental Sociology, Vanderbilt University
 
-## Skills
+## **Skills**
 
 * R, SPSS, SAS, Stata, and Microsoft Office
 
 * team building, adaptability, integrity, critical reasoning, and self-management
 
-## Resume 
+## **Resume** 
 
 [Click here to download my resume](./resume/yy_resume.pdf)
