@@ -1,0 +1,21 @@
+---
+title: "My Awesome Website"
+author: "Youssra Yemmas"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(knitr)
+library(p8105.datasets)
+
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# About
+
+A great website and me and my work. 
