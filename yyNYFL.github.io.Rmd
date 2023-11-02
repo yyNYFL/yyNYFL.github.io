@@ -1,5 +1,5 @@
 ---
-title: "My Awesome Website"
+title: "A little about me"
 author: "Youssra Yemmas"
 output: 
   html_document:
@@ -16,6 +16,22 @@ library(p8105.datasets)
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# About
+# **Youssra Yemmas ** (she/her/hers)
 
-A great website and me and my work. 
+<img src="./images/prof_pic.jpg" style="width:75%">
+
+## Education 
+
+* MPH Candidate in Sociomedical Science with a Certificate in Applied Biostatistics and Public Health Data Science, Columbia University, Mailman School of Public Health
+
+* Bachelor of Arts in Medicine, Health and Society and Environmental Sociology, Vanderbilt University
+
+## Skills
+
+* R, SPSS, SAS, Stata, and Microsoft Office
+
+* team building, adaptability, integrity, critical reasoning, and self-management
+
+## Resume 
+
+[Click here to download my resume](./resume/yy_resume.pdf)
